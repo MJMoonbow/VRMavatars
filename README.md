@@ -5,7 +5,10 @@ Created with StableDiffusion and TripoSR
 ***
 Rigged with Mixamo.
 ***
-Fantasy
+*
+Uploaded so far:
+*
+Fantasy:
 -Goblins
 -Kobolds
 -Orc
